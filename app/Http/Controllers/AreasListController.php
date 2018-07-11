@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-//Radius of Earth in metres
+//Radius of Earth in meteres
 define('EARTH_RADIUS', 6372795);
 
 class AreasListController extends Controller
